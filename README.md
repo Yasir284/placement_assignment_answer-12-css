@@ -1,19 +1,14 @@
 ![badge](https://img.shields.io/badge/MADE%20WITH-HTML%20%26%20CSS-blue)
-[![badge](https://img.shields.io/badge/SEE%20DEMO%20-VISIT-green)]()
 
 # Placement assignment answer 12 CSS - iNeuron: Home-Page
 
 - This project is a iNeuron Home-Page.This website is designed using HTML and CSS.
 
-- Below is the Live link of the website
-
-[![badge](https://img.shields.io/badge/LINK%20OF-iNeuron--HOMEPAGE-purple)]()
-
 ---
 
 ## Screenshot
 
-![App Screenshot](./images/ineuron-homepage-ss.png)
+![App Screenshot](./images/screenshot.png)
 
 ---
 
